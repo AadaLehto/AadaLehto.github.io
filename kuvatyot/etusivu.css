@@ -28,6 +28,11 @@ h2 {
     
 }
 
+h4 {
+    font-family: Consolas;
+    color: #F765A3;
+}
+
 /*Päävalikko*/
 nav a {
     font-family: Consolas;
