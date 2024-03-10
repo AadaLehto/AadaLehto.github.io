@@ -6,6 +6,8 @@ body {
 }
 
 div {
+    margin: auto;
+    width: 50%;
     padding: 15px;
     background-image: linear-gradient(#A155B9,#0B1354); 
     width: 300px;
@@ -13,6 +15,8 @@ div {
 }
 
 title {
+    margin: auto;
+    width: 50%;
     padding: 15px;
     width: 300px;
     box-align: center
