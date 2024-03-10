@@ -8,17 +8,21 @@ div {
     padding: 15px;
     background-image: linear-gradient(#A155B9,#0B1354); 
     width: 200px;
+    box-align: center
 }
 
-p { font-family: Consolas;
+p { 
+    font-family: Consolas;
 
 }
 
-h1 { font-family: Consolas;
+h1 { 
+    font-family: Consolas;
     color: #F765A3;
 }
 
-h2 { font-family: Consolas;
+h2 { 
+    font-family: Consolas;
     color: #A155B9;
     
 }
