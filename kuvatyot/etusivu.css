@@ -4,6 +4,10 @@ body {
     text-align: center;
     
 }
+div {
+    float: left;
+    padding: 15px; 
+}
 
 p { font-family: Consolas;
 
