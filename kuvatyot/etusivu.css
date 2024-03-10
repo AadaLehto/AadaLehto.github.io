@@ -32,4 +32,5 @@ h2 {
 nav a {
     font-family: Consolas;
     text-align: center;
+    display: inline-block;
 }
