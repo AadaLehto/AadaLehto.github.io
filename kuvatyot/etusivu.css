@@ -5,7 +5,7 @@ body {
     
 }
 div {
-    float: left;
+    float: inline-start;
     padding: 15px; 
 }
 
