@@ -1,13 +1,17 @@
 body {
     background-color: rgb(255, 255, 255);
     margin: 25px;
-    font-family: Consolas, monaco, monospace;
+    
 }
 
-h1{
+p { font-family: Consolas, monaco, monospace;
+
+}
+
+h1 { font-family: Consolas, monaco, monospace;
     color: #F765A3;
 }
 
-h2{
+h2 { font-family: Consolas, monaco, monospace;
     color: #A155B9;
 }
