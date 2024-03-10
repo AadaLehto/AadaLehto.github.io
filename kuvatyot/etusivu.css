@@ -7,7 +7,7 @@ body {
 div {
     float: inline-start;
     padding: 15px; 
-    width: 200px;
+    width: 100px;
 }
 
 p { font-family: Consolas;
