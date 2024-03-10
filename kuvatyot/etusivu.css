@@ -3,6 +3,11 @@ body {
     margin: 25px;
     text-align: center;
 }
+
+header {
+    width: 500px;
+}
+
 div {
     float: left;
     padding: 15px; 
