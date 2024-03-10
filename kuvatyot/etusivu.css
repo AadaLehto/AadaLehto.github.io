@@ -5,8 +5,8 @@ body {
 }
 
 div {
-    float: left;
-    padding: 15px; 
+    padding: 15px;
+    background-image: linear-gradient(#A155B9,#0B1354); 
 }
 
 p { font-family: Consolas;
