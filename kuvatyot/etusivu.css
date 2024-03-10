@@ -12,6 +12,12 @@ div {
     box-align: center
 }
 
+title {
+    padding: 15px;
+    width: 300px;
+    box-align: center
+}
+
 p { 
     font-family: Consolas;
     color: #F9D1D1;
