@@ -3,6 +3,7 @@ body {
     margin: 25px;
     text-align: center;
     align-content: center;
+    padding: 100px;
 }
 
 div {
@@ -47,4 +48,6 @@ nav a {
     font-family: Consolas;
     text-align: center;
     display: inline-block;
+    font-size: large;
+    padding: 15px;
 }
